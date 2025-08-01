@@ -12,19 +12,19 @@ Some of my DFS and Bestball accomplishments include:
 - 2024 Fantasy Foodball World Championship runner-up ($1M prize for second place)
 - 2023 Best Ball Mania third-place finisher ($300K prize for third place)
 
-<img src="assets/FBWC_2024.jpg" alt="My image" width="400">
+![My image](assets/FBWC_2024.jpg)
 
 ## Other interests
 More stuff here about board games? cats? other? 
 
 #### Cats interfering with PC gaming (to-do: Blur background of other screens)
-<img src="assets/cats-and-league.jpg" alt="My image" width="300">
+![My image](assets/cats-and-league.jpg)
 
 #### Cats interfering with console gaming
-<img src="assets/cats-and-switch.jpg" alt="My image" width="300">
+![My image](assets/cats-and-switch.jpg)
 
 #### Cats interfering with board gaming
-<img src="cat-and-board-games.jpg" alt="My image" width="300">
+![My image](assets/cat-and-board-games.jpg)
 
 ## About the name
 I get asked a lot where the name ShaidyAdvice comes from. I've used variants on Shaidar and Shaidy as a handle since about 2000, after [everyone's favorite Fade from Wheel of Time](https://wot.fandom.com/wiki/Shaidar_Haran). I became ShaidyAdvice during my first foray into online content creation: A series of tutorial videos for running successful raids in World of Warcraft. 
