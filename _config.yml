@@ -11,6 +11,7 @@
 
 # Name of website
 title: ShaidyAdvice
+remote_theme: daattali/beautiful-jekyll@6.0.1
 
 # Your name to show in the footer
 author: Real name here?
