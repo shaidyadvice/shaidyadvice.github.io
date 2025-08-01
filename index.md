@@ -2,7 +2,7 @@
 layout: home
 title: ShaidyAdvice
 subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
-cover-img: "/assets/shaidyadvice_no_mage.png"
+#cover-img: "/assets/shaidyadvice_no_mage.png"
 ---
 
 
