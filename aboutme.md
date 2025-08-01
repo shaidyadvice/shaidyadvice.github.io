@@ -14,7 +14,8 @@ Some of my DFS and Bestball accomplishments include:
 
 ### Small image
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-"/assets/img/avatar-icon.png"
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Other interests
 More stuff here about board games? cats? other? 
