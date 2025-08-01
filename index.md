@@ -21,26 +21,26 @@ Available for consulting, coaching, and miscellaneous data science projects.
     About me
   </a>
 
-  <a href="page2.html" 
+  <a href="mywork.html" 
      style="flex: 1 1 250px; height: 200px; 
-            background-image: url('assets/images/image2.jpg'); 
+            background-image: url('/assets/sidekick.jpg'); 
             background-size: cover; background-position: center; 
             display: flex; align-items: center; justify-content: center; 
             color: white; font-size: 24px; font-weight: bold; 
             text-decoration: none; border-radius: 12px; 
             box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-    Page 2
+    My work
   </a>
 
-  <a href="page3.html" 
+  <a href="inaction.html" 
      style="flex: 1 1 250px; height: 200px; 
-            background-image: url('assets/images/image3.jpg'); 
+            background-image: url('/assets/shaidypodcast2.jpg'); 
             background-size: cover; background-position: center; 
             display: flex; align-items: center; justify-content: center; 
             color: white; font-size: 24px; font-weight: bold; 
             text-decoration: none; border-radius: 12px; 
             box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-    Page 3
+    See me in action
   </a>
 
 </div>
