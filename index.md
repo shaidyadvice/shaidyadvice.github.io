@@ -5,65 +5,43 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 cover-img: "/assets/FBWC_2024.jpg"
 ---
 
-Hero image here 
 
 Available for consulting, coaching, and miscellaneous data science projects.
 
-Carousel of 3 sliders
+<div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
 
+  <a href="aboutme.html" 
+     style="flex: 1 1 250px; height: 200px; 
+            background-image: url('/assets/headshot.jpg'); 
+            background-size: cover; background-position: center; 
+            display: flex; align-items: center; justify-content: center; 
+            color: white; font-size: 24px; font-weight: bold; 
+            text-decoration: none; border-radius: 12px; 
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    About me
+  </a>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+  <a href="page2.html" 
+     style="flex: 1 1 250px; height: 200px; 
+            background-image: url('assets/images/image2.jpg'); 
+            background-size: cover; background-position: center; 
+            display: flex; align-items: center; justify-content: center; 
+            color: white; font-size: 24px; font-weight: bold; 
+            text-decoration: none; border-radius: 12px; 
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    Page 2
+  </a>
 
-[Link to another page](./another-page.html).
+  <a href="page3.html" 
+     style="flex: 1 1 250px; height: 200px; 
+            background-image: url('assets/images/image3.jpg'); 
+            background-size: cover; background-position: center; 
+            display: flex; align-items: center; justify-content: center; 
+            color: white; font-size: 24px; font-weight: bold; 
+            text-decoration: none; border-radius: 12px; 
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    Page 3
+  </a>
 
-
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
+</div>
 
