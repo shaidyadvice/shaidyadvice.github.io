@@ -1,10 +1,9 @@
 ---
 layout: page
 title: My work
-subtitle: Need a subtitle?
+subtitle: Consulting, development, coaching, and more
 ---
-To do:  Have to make these images the same size... 
-***
+
 
 <div style="display: flex; align-items: center;">
   
