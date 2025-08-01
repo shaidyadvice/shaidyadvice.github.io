@@ -23,7 +23,7 @@ author: ShaidyAdvice
 navbar-links:
   About Me: "aboutme"
   My Work: "mywork"
-  See me in Action: "inaction"
+  Media appearances: "media"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
