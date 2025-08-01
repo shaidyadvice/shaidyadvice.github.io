@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: home
+title: Shaidy's website
+subtitle: More website
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
