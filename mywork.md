@@ -3,6 +3,8 @@ layout: page
 title: My work
 #subtitle: 
 ---
+To do:  Have to make these images the same size... 
+***
 
 <div style="display: flex; align-items: center;">
   
