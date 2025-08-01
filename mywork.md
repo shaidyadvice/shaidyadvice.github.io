@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Where to find products I've worked on
-subtitle: Tools that incorporate my work
+#subtitle: 
 ---
 
 ***
