@@ -2,4 +2,4 @@ title: Shaidy Advice
 description: Data scientist and consultant for DFS and bestball
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-slate
+remote_theme: daattali/beautiful-jekyll@6.0.1
