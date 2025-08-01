@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My work
-subtitle: Consulting, development, coaching, and more
+title: Where to find products I've worked on
+subtitle: Tools that incorporate my work
 ---
 
 ***
@@ -31,7 +31,7 @@ subtitle: Consulting, development, coaching, and more
   
   <div style="width: 50%; padding: 10px;">
     <h2>Run the Sims</h2>
-    <p>Available exclusively to RTS subscribers, you can now access ShaidyAdvice's portfolio builder. <a href="https://www.runthesims.com/">Find RTS here</a>.</p>
+    <p>RTS subscribers can now add ShaidyAdvice's portfolio builder to their subscription. <a href="https://www.runthesims.com/">Find RTS here</a>.</p>
   </div>
 
 </div>
