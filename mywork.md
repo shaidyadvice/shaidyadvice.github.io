@@ -9,7 +9,7 @@ To do:  Have to make these images the same size...
 <div style="display: flex; align-items: center;">
   
   <div style="width: 50%; padding: 10px; text-align: center;">
-    <img src="/assets/sidekick.jpg" alt="My Image" 
+    <img src="/assets/sidekick.jpg" alt="Sidekick logo" 
          style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   
@@ -25,29 +25,16 @@ To do:  Have to make these images the same size...
 <div style="display: flex; align-items: center;">
   
   <div style="width: 50%; padding: 10px; text-align: center;">
-    <img src="/assets/sabersim.png" alt="My Image" 
+    <img src="/assets/RTS-Logo.png" alt="RTS logo" 
          style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   
   <div style="width: 50%; padding: 10px;">
-    <h2>SaberSim</h2>
-    <p>Are you allowed to advertise what you worked on over there? Blurb blurb blurb.</p>
+    <h2>Run the Sims</h2>
+    <p>Available exclusively to RTS subscribers, you can now access ShaidyAdvice's portfolio builder.</p>
   </div>
 
 </div>
 
 ***
 
-<div style="display: flex; align-items: center;">
-  
-  <div style="width: 50%; padding: 10px; text-align: center;">
-    <img src="/assets/headshot.jpg" alt="My Image" 
-         style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  
-  <div style="width: 50%; padding: 10px;">
-    <h2>Dan's thing?</h2>
-    <p>Available exclusively to subscribers of Dan's thing (?), access ShaidyAdvice's portfolio builder. Say more here. </p>
-  </div>
-
-</div>
