@@ -1,8 +1,15 @@
 ---
 layout: home
-title: Shaidy's website
-subtitle: More website
+title: ShaidyAdvice
+subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 ---
+
+Hero image here 
+
+Available for consulting, coaching, and miscellaneous data science projects.
+
+Carousel of 3 sliders
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
