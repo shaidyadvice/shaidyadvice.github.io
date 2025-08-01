@@ -15,7 +15,7 @@ To do:  Have to make these images the same size...
   
   <div style="width: 50%; padding: 10px;">
     <h2>The LegUp Sidekick</h2>
-    <p>Add a paragraph about your work on Sidekick. Text and image should each take up 50% of the width..</p>
+    <p>Add a paragraph about your work on Sidekick. [Find the Sidekick here.](https://www.legendaryupside.com/sidekick/)</p>
   </div>
 
 </div>
@@ -31,7 +31,7 @@ To do:  Have to make these images the same size...
   
   <div style="width: 50%; padding: 10px;">
     <h2>Run the Sims</h2>
-    <p>Available exclusively to RTS subscribers, you can now access ShaidyAdvice's portfolio builder.</p>
+    <p>Available exclusively to RTS subscribers, you can now access ShaidyAdvice's portfolio builder. [Find RTS here](https://www.runthesims.com/).</p>
   </div>
 
 </div>
