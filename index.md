@@ -39,7 +39,7 @@ Available for consulting, coaching, and miscellaneous data science projects.
 
   </a>
 
-  <a href="mywork.html" 
+  <a href="mywork" 
      style="flex: 1 1 250px; height: 200px; 
             background-image: url('/assets/sidekick.jpg'); 
             background-size: cover; background-position: center; 
@@ -67,15 +67,32 @@ Available for consulting, coaching, and miscellaneous data science projects.
     </div>
   </a>
 
-  <a href="inaction.html" 
+<a href="inaction" 
      style="flex: 1 1 250px; height: 200px; 
-            background-image: url('/assets/shaidypodcast2.jpg'); 
+            background-image: url('/assets/shaidypodcast.jpg'); 
             background-size: cover; background-position: center; 
-            display: flex; align-items: center; justify-content: center; 
-            color: white; font-size: 24px; font-weight: bold; 
-            text-decoration: none; border-radius: 12px; 
+            position: relative; 
+            border-radius: 12px; 
+            overflow: hidden; 
+            text-decoration: none; 
             box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-    See me in action
+
+    <!-- Overlay -->
+    <div style="position: absolute; top: 0; left: 0; 
+                width: 100%; height: 100%; 
+                background-color: rgba(0,0,0,0.5);"></div>
+
+    <!-- Text -->
+    <div style="position: relative; 
+                color: white; 
+                font-size: 24px; 
+                font-weight: bold; 
+                height: 100%; 
+                display: flex; 
+                align-items: center; 
+                justify-content: center;">
+      Media appearances
+    </div>
   </a>
 
 </div>
