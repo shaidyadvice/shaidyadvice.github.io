@@ -25,6 +25,7 @@ More stuff here about board games? cats? other?
 
 #### Cats interfering with board gaming
 ![My image](assets/cat-and-board-games.jpg)
+<img src="assets/cat-and-board-games.jpg" alt="My image" width="300">
 
 ## About the name
 I get asked a lot where the name ShaidyAdvice comes from. I've used variants on Shaidar and Shaidy as a handle since about 2000, after [everyone's favorite Fade from Wheel of Time](https://wot.fandom.com/wiki/Shaidar_Haran). I became ShaidyAdvice during my first foray into online content creation: A series of tutorial videos for running successful raids in World of Warcraft. 
