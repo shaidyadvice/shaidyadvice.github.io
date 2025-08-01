@@ -69,7 +69,7 @@ Available for consulting, coaching, and miscellaneous data science projects.
 
 <a href="inaction" 
      style="flex: 1 1 250px; height: 200px; 
-            background-image: url('/assets/shaidypodcast.jpg'); 
+            background-image: url('/assets/shaidypodcast.png'); 
             background-size: cover; background-position: center; 
             position: relative; 
             border-radius: 12px; 
