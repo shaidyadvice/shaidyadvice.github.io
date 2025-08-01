@@ -4,6 +4,7 @@ title: My work
 subtitle: Consulting, development, coaching, and more
 ---
 
+***
 
 <div style="display: flex; align-items: center;">
   
