@@ -7,7 +7,7 @@ title: My work
 <div style="display: flex; align-items: center;">
   
   <div style="flex: 1; padding: 10px;">
-    <img src="assets/sidekick.jpg" alt="My Image" style="max-width: 400%; border-radius: 8px;">
+    <img src="assets/sidekick.jpg" alt="Sidekick Logo" style="max-width: 400%; border-radius: 8px;">
   </div>
   
   <div style="flex: 1; padding: 10px;">
