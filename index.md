@@ -10,7 +10,7 @@ Available for consulting, coaching, and miscellaneous data science projects.
 
 <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
 
-  <a href="aboutme.html" 
+  <a href="aboutme" 
      style="flex: 1 1 250px; height: 200px; 
             background-image: url('/assets/headshot.jpg'); 
             background-size: cover; background-position: center; 
