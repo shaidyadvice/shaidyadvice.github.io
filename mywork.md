@@ -23,7 +23,7 @@ title: My work
 <div style="display: flex; align-items: center;">
   
   <div style="width: 50%; padding: 10px; text-align: center;">
-    <img src="/assets/sidekick.jpg" alt="My Image" 
+    <img src="/assets/sabersim.png" alt="My Image" 
          style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   
@@ -39,7 +39,7 @@ title: My work
 <div style="display: flex; align-items: center;">
   
   <div style="width: 50%; padding: 10px; text-align: center;">
-    <img src="/assets/sidekick.jpg" alt="My Image" 
+    <img src="/assets/headshot.jpg" alt="My Image" 
          style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
   
