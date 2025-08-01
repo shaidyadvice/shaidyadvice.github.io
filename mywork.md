@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My work
-#subtitle: 
+subtitle: Need a subtitle?
 ---
 To do:  Have to make these images the same size... 
 ***
