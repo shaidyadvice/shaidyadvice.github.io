@@ -12,6 +12,9 @@ Some of my DFS and Bestball accomplishments include:
 - 2024 Fantasy Foodball World Championship runner-up ($1M prize for second place)
 - 2023 Best Ball Mania third-place finisher ($300K prize for third place)
 
+### Small image
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 ## Other interests
 More stuff here about board games? cats? other? 
 
