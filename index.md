@@ -144,11 +144,14 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
     </a>
     </div>
 
+
     <div style="display: flex; align-items: center;">
+    <!-- button-->
   <div style="width: 50%; padding: 10px; text-align: center;">
     <img src="/assets/sidekick.jpg" alt="Sidekick logo" 
          style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
+  <!-- text next to button-->
   <div style="width: 50%; padding: 10px;">
     <h2>The LegUp Sidekick</h2>
     <p>Add a paragraph about your work on Sidekick. <a href="https://www.legendaryupside.com/sidekick/">Find the Sidekick here</a>.</p>
@@ -163,18 +166,35 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 
 ***
 
-<div style="display: flex; align-items: center;">
+<!-- New double-button container-->
+<div class="full-width-section" style="
+  background-color: #EAEAEA; 
+  color: #1a365d;
+  margin-left: calc(-50vw + 50%); 
+  margin-right: calc(-50vw + 50%); 
+  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
   
-  <div style="width: 50%; padding: 10px; text-align: center;">
+  <div class="container">
+    <h2>Want to work with me?</h2>
+    <p>Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat!</p>
+
+  <div style="display: flex; align-items: center;">
+    
+    <!-- button-->
+    <div style="width: 50%; padding: 10px; text-align: center;">
+    <a href="https://www.legendaryupside.com/sidekick/">
     <img src="/assets/sidekick.jpg" alt="Sidekick logo" 
          style="max-width: 100%; height: auto; border-radius: 8px;">
+         </a>
   </div>
   
+  <!-- text next to button-->
   <div style="width: 50%; padding: 10px;">
     <h2>The LegUp Sidekick</h2>
     <p>Add a paragraph about your work on Sidekick. <a href="https://www.legendaryupside.com/sidekick/">Find the Sidekick here</a>.</p>
   </div>
-
 </div>
 
-***
+    
+
+  </div>
