@@ -4,11 +4,9 @@ title: My Page with Colored Sections
 ---
 
 
-<div class="outer" style="background-color:#333; color:white; padding:60px 0;">
-  <div class="inner">
-    <h2>Full-Width Section</h2>
-    <p>This section stretches across the entire screen.</p>
-  </div>
+<div style="width:100%; background-color:#333; color:white; padding:60px;">
+  <h2>Edge to Edge Section</h2>
+  <p>This content and background both span the whole page.</p>
 </div>
 
 
