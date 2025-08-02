@@ -91,6 +91,8 @@
   {% if page.css %}
     {% for css in page.css %}
       <link rel="stylesheet" href="{{ css | relative_url }}">
+  {% DO added custom CSS for header image size %}
+      <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
     {% endfor %}
   {% endif %}
 
