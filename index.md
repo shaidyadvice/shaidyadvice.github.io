@@ -195,14 +195,14 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   </div>
 </div>  
 <div style="text-align: center; margin: 20px 0;">
-    <a href="/mywork.html" style="
+    <a href="/mywork/" style="
         display: inline-block;
-        #background-color: #007bff;
-        background-image: url('/assets/sidekick.jpg'); 
-        color: white;
-        padding: 12px 24px;
+        background-color: #1a365d;
+        #background-image: url('/assets/sidekick.jpg'); 
+        color: #EAEAEA;
+        padding: 100px 24px;
         text-decoration: none;
-        border-radius: 6px;
+        border-radius: 0px;
         font-weight: 500;">
         Button Text
     </a>
