@@ -212,8 +212,7 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
               See the tools I've worked on
         </div>  
     </a>
-           </div>  
-                   </div>  
+  </div>  
     
 
     
