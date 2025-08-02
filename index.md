@@ -4,7 +4,7 @@ title: ShaidyAdvice
 subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 #cover-img: "/assets/shaidyadvice_no_mage.png"
 ---
-
+Welcome. Here you'll find info. Link to various pages. 
 
 <!-- Tools section --> 
 <div class="full-width-section" style="
@@ -46,27 +46,11 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
                 align-items: center; 
                 justify-content: center;">
             See the tools I've worked on
-      </div>  
-  </a>
+            </div>  
+        </a>
   </div>
-
-<!--bonus button-->
-  <div style="text-align: center; margin: 20px 0;">
-    <a href="/mywork/" style="
-        display: inline-block;
-        background-color: #1a365d;
-        #background-image: url('/assets/sidekick.jpg'); 
-        color: #EAEAEA;
-        padding: 18px 36px;
-        text-decoration: none;
-        border-radius: 8px;
-        font-weight: 500;
-        font-size: 18px;">
-        Bonus button
-    </a>
-</div>
   </div>
-</div>
+  </div>
 
 
 
@@ -204,3 +188,18 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   </div>
   </div>
   
+<!--Bonus button-->
+  <div style="text-align: center; margin: 20px 0;">
+    <a href="/mywork/" style="
+        display: inline-block;
+        background-color: #1a365d;
+        #background-image: url('/assets/sidekick.jpg'); 
+        color: #EAEAEA;
+        padding: 18px 36px;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: 500;
+        font-size: 18px;">
+        Bonus button
+    </a>
+</div>
