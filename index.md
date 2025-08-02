@@ -49,6 +49,24 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
       </div>  
   </a>
   </div>
+
+<!--bonus button-->
+  <div style="text-align: center; margin: 20px 0;">
+    <a href="/mywork/" style="
+        display: inline-block;
+        background-color: #1a365d;
+        #background-image: url('/assets/sidekick.jpg'); 
+        color: #EAEAEA;
+        padding: 18px 36px;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: 500;
+        font-size: 18px;">
+        Bonus button
+    </a>
+</div>
+
+
   </div>
 </div>
 
@@ -194,20 +212,7 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
     <p>Add a paragraph about your work on Sidekick. <a href="https://www.legendaryupside.com/sidekick/">Find the Sidekick here</a>.</p>
   </div>
 </div>  
-<div style="text-align: center; margin: 20px 0;">
-    <a href="/mywork/" style="
-        display: inline-block;
-        background-color: #1a365d;
-        #background-image: url('/assets/sidekick.jpg'); 
-        color: #EAEAEA;
-        padding: 18px 36px;
-        text-decoration: none;
-        border-radius: 8px;
-        font-weight: 500;
-        font-size: 18px;">
-        Button Text
-    </a>
-</div>
+
   </div>
 
 
