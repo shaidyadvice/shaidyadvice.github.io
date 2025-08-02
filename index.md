@@ -45,7 +45,7 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   <!-- Button -->
     <a href="mywork" 
        style="flex: 1 1 250px; height: 200px; 
-          background-image: url('/assets/RTS-logo.png'); 
+          background-image: url('/assets/RTS-Logo.png'); 
           background-size: cover; background-position: center; 
           position: relative; 
           border-radius: 12px; 
@@ -132,58 +132,10 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 
 
 
-<!-- Bestball tools section --> 
-<div class="full-width-section" style="
-  background-color: #EAEAEA; 
-  color: #1a365d;
-  margin-left: calc(-50vw + 50%); 
-  margin-right: calc(-50vw + 50%); 
-  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%); ">
-  
-  <div class="container">
-    <h2>Where you can find by Bestball work</h2>
-    <p>I got into Bestball a few years after I became a DFS pro. Since Bestball is newer, I think there's a lot of upside for smart players and I want to help you find it.</p>
-
-    <!-- Sidekick button-->
-    <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
-      <a href="mywork" 
-         style="flex: 1 1 250px; height: 200px; 
-            background-image: url('/assets/sidekick.jpg'); 
-            background-size: cover; background-position: center; 
-            position: relative; 
-            border-radius: 12px; 
-            overflow: hidden; 
-            text-decoration: none; 
-            box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-
-      <!-- Button Overlay -->
-      <div style="position: absolute; top: 0; left: 0; 
-                width: 100%; height: 100%; 
-                background-color: rgba(0,0,0,0.5);"></div>
-
-      <!-- Button Text -->
-      <div style="position: relative; 
-                color: white; 
-                font-size: 24px; 
-                font-weight: bold; 
-                height: 100%; 
-                display: flex; 
-                align-items: center; 
-                justify-content: center;">
-            Bestball tools I've worked on
-            </div>  
-        </a>
-  </div>
- </div>
-</div>
-
-
-
-
 <!-- Work with me section-->
 <div class="full-width-section" style="
-  background-color: #EAEAEA; 
-  color: #1a365d;
+  background-color: #1a365d; 
+  color: #EAEAEA;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
@@ -194,107 +146,6 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   </div>
 </div>
 
-
-
-
-<!-- Media appearances section-->
-<div class="full-width-section" style="
-  background-color: #291f43; 
-  color: #EAEAEA;
-  margin-left: calc(-50vw + 50%); 
-  margin-right: calc(-50vw + 50%); 
-  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
-  
-  <div class="container">
-    <h2>See me in action</h2>
-    <p>I've joined numerous streams and podcasts to talk about my work, from modeling to sims to bankroll management to portfolio-building. </p>
-
-    <!-- New button--> 
-    <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
-      <a href="newpage" 
-           style="flex: 1 1 250px; height: 200px; 
-            background-image: url('/assets/shaidypodcast.png'); 
-            background-size: cover; background-position: center; 
-            position: relative; 
-            border-radius: 12px; 
-            overflow: hidden; 
-            text-decoration: none; 
-            box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-      
-          <!-- Button Overlay -->
-          <div style="position: absolute; top: 0; left: 0; 
-                      width: 100%; height: 100%; 
-                      background-color: rgba(0,0,0,0.5);"></div>
-      
-          <!-- Button Text -->
-          <div style="position: relative; 
-                      color: white; 
-                      font-size: 24px; 
-                      font-weight: bold; 
-                      height: 100%; 
-                      display: flex; 
-                      align-items: center; 
-                      justify-content: center;">
-            See or hear me talk about my work
-          </div>  
-    </a>
-    </div>
-    </div>
-  </div>
-
-   
-
-
-<!--test section-->
-<div class="full-width-section" style="
-  background-color: #1a365d; 
-  color: #EAEAEA;
-  margin-left: calc(-50vw + 50%); 
-  margin-right: calc(-50vw + 50%); 
-  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
-  
-  <div class="container">
-    <h2>Want to work with me?</h2>
-    <p></p>
-  </div>
-
-<!--Side-by-side paragraph and button-->
-<div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap; align-items: center;">
-      
-  <!-- Text Paragraph -->
-  <div style="flex: 1 1 250px; padding: 20px;">
-    <p style="font-size: 16px; line-height: 1.6; margin: 0;">
-      Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat! If you work with a tool provider and want to incorporate my work, email me.</p>
-   </div>
-  
-  <!-- Button -->
-    <a href="mywork" 
-       style="flex: 1 1 250px; height: 200px; 
-          background-image: url('/assets/sidekick.jpg'); 
-          background-size: cover; background-position: center; 
-          position: relative; 
-          border-radius: 12px; 
-          overflow: hidden; 
-          text-decoration: none; 
-          box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-        <!-- Button Overlay -->
-        <div style="position: absolute; top: 0; left: 0; 
-                  width: 100%; height: 100%; 
-                  background-color: rgba(0,0,0,0.5);"></div>
-        <!-- Button Text -->
-        <div style="position: relative; 
-                  color: white; 
-                  font-size: 24px; 
-                  font-weight: bold; 
-                  height: 100%; 
-                  display: flex; 
-                  align-items: center; 
-                  justify-content: center;">
-              See the tools I've worked on
-        </div>  
-    </a>
-  </div>  
-</div>
 
 
 
