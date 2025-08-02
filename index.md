@@ -174,6 +174,11 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
+  
+  <div class="container">
+    <h2>Work with me</h2>
+    <p></p>
+  </div>
 
 
 <!--Side-by-side paragraph and button-->
