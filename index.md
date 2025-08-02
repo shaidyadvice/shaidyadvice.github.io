@@ -65,8 +65,6 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
         Bonus button
     </a>
 </div>
-
-
   </div>
 </div>
 
@@ -82,40 +80,12 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   
   <div class="container">
     <h2>Want to work with me?</h2>
-    <p>Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat!</p>
-
-    <!-- New button--> 
-    <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
-      <a href="newpage" 
-           style="flex: 1 1 250px; height: 200px; 
-            background-image: url('/assets/ShaidyAdvice-logo-black.png'); 
-            background-size: cover; background-position: center; 
-            position: relative; 
-            border-radius: 12px; 
-            overflow: hidden; 
-            text-decoration: none; 
-            box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-      
-          <!-- Button Overlay -->
-          <div style="position: absolute; top: 0; left: 0; 
-                      width: 100%; height: 100%; 
-                      background-color: rgba(0,0,0,0.5);"></div>
-      
-          <!-- Button Text -->
-          <div style="position: relative; 
-                      color: white; 
-                      font-size: 24px; 
-                      font-weight: bold; 
-                      height: 100%; 
-                      display: flex; 
-                      align-items: center; 
-                      justify-content: center;">
-            Add ShaidyAdvice modeling to your own tools
-          </div>  
-    </a>
-    </div>
-    </div>
+    <p>Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat! If you work with a tool provider and want to incorporate my work, email me.</p>
   </div>
+
+    </div>
+    </div>
+
 
 
 
@@ -176,20 +146,17 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
   
   <div class="container">
-    <h2>Work with me</h2>
+    <h2>Want to work with me?</h2>
     <p></p>
   </div>
-
 
 <!--Side-by-side paragraph and button-->
 <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap; align-items: center;">
       
   <!-- Text Paragraph -->
   <div style="flex: 1 1 250px; padding: 20px;">
-     <h2>Testing a new section</h2>
-        <p style="font-size: 16px; line-height: 1.6; margin: 0;">
-            Side by side button and text. Maybe instead of the big buttons? 
-        </p>
+    <p style="font-size: 16px; line-height: 1.6; margin: 0;">
+      Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat! If you work with a tool provider and want to incorporate my work, email me.</p>
    </div>
   
   <!-- Button -->
