@@ -98,16 +98,15 @@ Available for consulting, coaching, and miscellaneous data science projects.
 
 
 
-  <div style="background-color: #f0f0f0; padding: 40px 20px; margin: 20px 0;">
-  <h2>My Custom Section</h2>
-  <p>This section has a different background color.</p>
-</div>
-
-
-
-<div style="background-color: #333; color: white; padding: 60px 0;">
+<div class="full-width-section" style="
+  background-color: #f8f9fa; 
+  margin-left: calc(-50vw + 50%); 
+  margin-right: calc(-50vw + 50%); 
+  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);
+">
   <div class="container">
-    <h2>Full-Width Section</h2>
-    <p>This section spans the full page width with a dark background.</p>
+    <!-- Your content here -->
+    <h2>Full Width Section</h2>
+    <p>This content will be centered within the normal page width.</p>
   </div>
 </div>
