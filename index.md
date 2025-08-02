@@ -131,9 +131,9 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
     <h2>See me in action</h2>
     <p>I've joined numerous streams and podcasts to talk about my work, from modeling to sims to bankroll management to portfolio-building. </p>
 
-    <!-- Media appearances button--> 
+    <!-- New button--> 
     <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
-      <a href="media" 
+      <a href="newpage" 
            style="flex: 1 1 250px; height: 200px; 
             background-image: url('/assets/shaidypodcast.png'); 
             background-size: cover; background-position: center; 
@@ -157,59 +157,35 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
                       display: flex; 
                       align-items: center; 
                       justify-content: center;">
-            See/hear me talk about my work
+            See or hear me talk about my work
           </div>  
     </a>
     </div>
-
-
-    <div style="display: flex; align-items: center;">
-    
-    <!-- text next to button-->
-  <div style="width: 50%; padding: 10px;">
-    <h2>See me in action</h2>
-    <p>I've joined numerous streams and podcasts to talk about my work, from modeling to sims to bankroll management to portfolio-building.</p>
-  </div> 
-  
-  <!-- button-->
- <div style="width: 50%; padding: 10px;">
-      <a href="media" 
-           style="flex: 1 1 250px; height: 200px; 
-            background-image: url('/assets/shaidypodcast.png'); 
-            background-size: cover; background-position: center; 
-            position: relative; 
-            border-radius: 12px; 
-            overflow: hidden; 
-            text-decoration: none; 
-            box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-      
-          <!-- Button Overlay -->
-          <div style="position: absolute; top: 0; left: 0; 
-                      width: 100%; height: 100%; 
-                      background-color: rgba(0,0,0,0.5);"></div>
-      
-          <!-- Button Text -->
-          <div style="position: relative; 
-                      color: white; 
-                      font-size: 24px; 
-                      font-weight: bold; 
-                      height: 100%; 
-                      display: flex; 
-                      align-items: center; 
-                      justify-content: center;">
-            See/hear me talk about my work
-          </div>  
-    </a>
     </div>
+  </div>
 
-</div>
+   
 
 
-    </div>
-
-***
 <!--test section-->
+<div class="full-width-section" style="
+  background-color: #EAEAEA; 
+  color: #1a365d;
+  margin-left: calc(-50vw + 50%); 
+  margin-right: calc(-50vw + 50%); 
+  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
+
+<!--Side-by-side paragraph and button-->
 <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap; align-items: center;">
+      
+  <!-- Text Paragraph -->
+  <div style="flex: 1 1 250px; padding: 20px;">
+     <h2>Testing a new section</h2>
+        <p style="font-size: 16px; line-height: 1.6; margin: 0;">
+            Side by side button and text. Maybe instead of the big buttons? 
+        </p>
+   </div>
+  
   <!-- Button -->
     <a href="mywork" 
        style="flex: 1 1 250px; height: 200px; 
@@ -236,14 +212,9 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
               See the tools I've worked on
         </div>  
     </a>
+           </div>  
+                   </div>  
     
-    <!-- Text Paragraph -->
-    <div style="flex: 1 1 250px; padding: 20px;">
-        <p style="font-size: 16px; line-height: 1.6; margin: 0;">
-            This is your paragraph text that will appear next to the button. 
-            You can include any content here that you want to display alongside 
-            the image button. It will wrap to a new line on smaller screens.
-        </p>
-    </div>
+
     
 </div>
