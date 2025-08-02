@@ -200,10 +200,11 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
         background-color: #1a365d;
         #background-image: url('/assets/sidekick.jpg'); 
         color: #EAEAEA;
-        padding: 18px 36;
+        padding: 18px 36px;
         text-decoration: none;
         border-radius: 8px;
-        font-weight: 500;">
+        font-weight: 500;
+        font-size: 18px;">
         Button Text
     </a>
 </div>
