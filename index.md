@@ -17,7 +17,7 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   <div class="container">
     <h2>Get access to tools I've worked on</h2>
     <p>I’m a DFS pro who loves building tools that level up my game, and helping other players do the same.</p>
-    <p>Learn more about my DFS and Bestball journey in [About Me](./aboutme.html).</p>
+    <p>Learn more about my DFS and Bestball journey in <a href="./aboutme.html">About Me</a>.</p>
 
     <!-- Sidekick button-->
     <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
@@ -75,11 +75,9 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
                   background-size: cover; background-position: center; 
                   position: relative; 
                   border-radius: 12px; 
-                  padding: 12px 12px;
-                  width: auto;
-                  height: auto;
-                  min-width: 48px;
-                  min-height: 48px;
+                  width: 50px;
+                  height: 50px;
+                  padding: 0;
                   overflow: hidden; 
                   text-decoration: none; 
                   box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
