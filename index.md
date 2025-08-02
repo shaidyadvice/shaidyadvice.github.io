@@ -71,10 +71,15 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
     <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
       <a href="newpage" 
            style="flex: 1 1 250px; height: 200px; 
-                  background-image: url('/assets/ShaidyAdvice-logo-black.jpg'); 
+                  background-image: url('/assets/ShaidyAdvice-logo-black.png'); 
                   background-size: cover; background-position: center; 
                   position: relative; 
                   border-radius: 12px; 
+                  padding: 12px 12px;
+                  width: auto;
+                  height: auto;
+                  min-width: 48px;
+                  min-height: 48px;
                   overflow: hidden; 
                   text-decoration: none; 
                   box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
