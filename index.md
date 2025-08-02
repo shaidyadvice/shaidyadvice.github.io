@@ -197,7 +197,8 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 <div style="text-align: center; margin: 20px 0;">
     <a href="/mywork.html" style="
         display: inline-block;
-        background-color: #007bff;
+        #background-color: #007bff;
+        background-image: url('/assets/sidekick.jpg'); 
         color: white;
         padding: 12px 24px;
         text-decoration: none;
