@@ -134,7 +134,7 @@ cover-img: "/assets/FBWC_2024.jpg"
 
 <!-- Work with me section-->
 <div class="full-width-section" style="
-  background-color: #291f43; 
+  background-color: #1a365d; 
   color: #EAEAEA;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
@@ -149,9 +149,9 @@ cover-img: "/assets/FBWC_2024.jpg"
   <div style="text-align: center; margin: 20px 0;">
     <a href="mailto:shaidyadvice@gmail.com" style="
         display: inline-block;
-        background-color: #1a365d;
+        background-color: #EAEAEA;
         #background-image: url('/assets/sidekick.jpg'); 
-        color: #EAEAEA;
+        color: #291f43;
         padding: 18px 36px;
         text-decoration: none;
         border-radius: 8px;
