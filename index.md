@@ -8,7 +8,8 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 
 
 <div class="full-width-section" style="
-  background-color: #f8f9fa; 
+  background-color: #291f43; 
+  color: #EAEAEA;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);
@@ -22,8 +23,8 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 </div>
 
 <div class="full-width-section" style="
-  background-color: #291f43; 
-  color: white;
+  background-color: #EAEAEA; 
+  color: #1a365d;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);
