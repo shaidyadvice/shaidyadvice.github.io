@@ -175,6 +175,7 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
 
+
 <!--Side-by-side paragraph and button-->
 <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap; align-items: center;">
       
@@ -213,7 +214,21 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
         </div>  
     </a>
   </div>  
-    
-
-    
 </div>
+
+
+
+<!--test section 2-->
+<div class="full-width-section" style="
+  background-color: #1a365d; 
+  color: #EAEAEA;
+  margin-left: calc(-50vw + 50%); 
+  margin-right: calc(-50vw + 50%); 
+  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
+
+  <div class="container">
+    <h2>Sections for days!</h2>
+    <p></p>
+  </div>
+  </div>
+  
