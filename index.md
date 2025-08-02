@@ -208,8 +208,42 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
     </div>
 
 ***
-More 
-
-
-
- 
+<!--test section-->
+<div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap; align-items: center;">
+  <!-- Button -->
+    <a href="mywork" 
+       style="flex: 1 1 250px; height: 200px; 
+          background-image: url('/assets/sidekick.jpg'); 
+          background-size: cover; background-position: center; 
+          position: relative; 
+          border-radius: 12px; 
+          overflow: hidden; 
+          text-decoration: none; 
+          box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+        <!-- Button Overlay -->
+        <div style="position: absolute; top: 0; left: 0; 
+                  width: 100%; height: 100%; 
+                  background-color: rgba(0,0,0,0.5);"></div>
+        <!-- Button Text -->
+        <div style="position: relative; 
+                  color: white; 
+                  font-size: 24px; 
+                  font-weight: bold; 
+                  height: 100%; 
+                  display: flex; 
+                  align-items: center; 
+                  justify-content: center;">
+              See the tools I've worked on
+        </div>  
+    </a>
+    
+    <!-- Text Paragraph -->
+    <div style="flex: 1 1 250px; padding: 20px;">
+        <p style="font-size: 16px; line-height: 1.6; margin: 0;">
+            This is your paragraph text that will appear next to the button. 
+            You can include any content here that you want to display alongside 
+            the image button. It will wrap to a new line on smaller screens.
+        </p>
+    </div>
+    
+</div>
