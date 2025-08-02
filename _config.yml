@@ -21,9 +21,10 @@ author: ShaidyAdvice
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  My Work: "mywork"
+  Stuff I've Worked On: "mywork"
+  Work With Me: "newpage"
   Media appearances: "media"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
