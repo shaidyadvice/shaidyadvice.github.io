@@ -172,17 +172,43 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
   </div> 
   
   <!-- button-->
-  <div style="width: 50%; padding: 10px; text-align: center;">
-    <img src="/assets/sidekick.jpg" alt="Sidekick logo" 
-         style="max-width: 100%; height: auto; border-radius: 8px;">
-  </div>
+ <div style="width: 50%; padding: 10px;">
+      <a href="media" 
+           style="flex: 1 1 250px; height: 200px; 
+            background-image: url('/assets/shaidypodcast.png'); 
+            background-size: cover; background-position: center; 
+            position: relative; 
+            border-radius: 12px; 
+            overflow: hidden; 
+            text-decoration: none; 
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+      
+          <!-- Button Overlay -->
+          <div style="position: absolute; top: 0; left: 0; 
+                      width: 100%; height: 100%; 
+                      background-color: rgba(0,0,0,0.5);"></div>
+      
+          <!-- Button Text -->
+          <div style="position: relative; 
+                      color: white; 
+                      font-size: 24px; 
+                      font-weight: bold; 
+                      height: 100%; 
+                      display: flex; 
+                      align-items: center; 
+                      justify-content: center;">
+            See/hear me talk about my work
+          </div>  
+    </a>
+    </div>
 
 </div>
 
 
     </div>
-  </div>
 
+***
+More 
 
 
 
