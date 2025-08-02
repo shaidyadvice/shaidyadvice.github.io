@@ -169,8 +169,8 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 
 <!--test section-->
 <div class="full-width-section" style="
-  background-color: #EAEAEA; 
-  color: #1a365d;
+  background-color: #1a365d; 
+  color: #EAEAEA;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
@@ -220,7 +220,7 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 
 <!--test section 2-->
 <div class="full-width-section" style="
-  background-color: #1a365d; 
+  background-color: #291f43; 
   color: #EAEAEA;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
