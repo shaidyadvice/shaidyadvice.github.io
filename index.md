@@ -142,16 +142,12 @@ cover-img: "/assets/FBWC_2024.jpg"
   
   <div class="container">
     <h2>Want to work with me?</h2>
-    <p>Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat! If you work with a tool provider and want to incorporate my work, email me.</p>
+    <p>Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat! If you work with a tool provider and want to incorporate my work, please reach out.</p>
   </div>
-</div>
 
-
-
-  
 <!--Bonus button-->
   <div style="text-align: center; margin: 20px 0;">
-    <a href="/mywork/" style="
+    <a href="mailto:shaidyadvice@gmail.com" style="
         display: inline-block;
         background-color: #1a365d;
         #background-image: url('/assets/sidekick.jpg'); 
@@ -161,6 +157,14 @@ cover-img: "/assets/FBWC_2024.jpg"
         border-radius: 8px;
         font-weight: 500;
         font-size: 18px;">
-        Bonus button
+        Email me
     </a>
 </div>
+
+  
+</div>
+
+
+
+  
+
