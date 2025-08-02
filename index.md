@@ -7,8 +7,8 @@ cover-img: "/assets/FBWC_2024.jpg"
 
 <!--Welcome section-->
 <div class="full-width-section" style="
-  background-color: #291f43; 
-  color: #EAEAEA;
+  background-color: #EAEAEA; 
+  color: #1a365d;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
@@ -23,8 +23,8 @@ cover-img: "/assets/FBWC_2024.jpg"
 
 <!--DFS tools section-->
 <div class="full-width-section" style="
-  background-color: #EAEAEA; 
-  color: #1a365d;
+  background-color: #291f43; 
+  color: #EAEAEA;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
@@ -77,8 +77,8 @@ cover-img: "/assets/FBWC_2024.jpg"
 
 <!--Bestball tools section-->
 <div class="full-width-section" style="
-  background-color: #291f43; 
-  color: #EAEAEA;
+  background-color: #EAEAEA; 
+  color: #1a365d;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
