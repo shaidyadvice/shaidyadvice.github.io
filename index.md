@@ -95,5 +95,11 @@ Available for consulting, coaching, and miscellaneous data science projects.
     </div>
   </a>
 
+
+  <div style="background-color: #f0f0f0; padding: 40px 20px; margin: 20px 0;">
+  <h2>My Custom Section</h2>
+  <p>This section has a different background color.</p>
+</div>
+
 </div>
 
