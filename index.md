@@ -164,16 +164,19 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 
 
     <div style="display: flex; align-items: center;">
-    <!-- button-->
+    
+    <!-- text next to button-->
+  <div style="width: 50%; padding: 10px;">
+    <h2>See me in action</h2>
+    <p>I've joined numerous streams and podcasts to talk about my work, from modeling to sims to bankroll management to portfolio-building.</p>
+  </div> 
+  
+  <!-- button-->
   <div style="width: 50%; padding: 10px; text-align: center;">
     <img src="/assets/sidekick.jpg" alt="Sidekick logo" 
          style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
-  <!-- text next to button-->
-  <div style="width: 50%; padding: 10px;">
-    <h2>The LegUp Sidekick</h2>
-    <p>Add a paragraph about your work on Sidekick. <a href="https://www.legendaryupside.com/sidekick/">Find the Sidekick here</a>.</p>
-  </div>
+
 </div>
 
 
@@ -182,39 +185,5 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 
 
 
-***
 
-<!-- New double-button container-->
-<div class="full-width-section" style="
-  background-color: #EAEAEA; 
-  color: #1a365d;
-  margin-left: calc(-50vw + 50%); 
-  margin-right: calc(-50vw + 50%); 
-  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
-  
-  <div class="container">
-    <h2>Want to work with me?</h2>
-    <p>Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat!</p>
-
-  <div style="display: flex; align-items: center;">
-    
-      <!-- text next to button-->
-  <div style="width: 50%; padding: 10px;">
-    <h2>The LegUp Sidekick</h2>
-    <p>Add a paragraph about your work on Sidekick. <a href="https://www.legendaryupside.com/sidekick/">Find the Sidekick here</a>.</p>
-  </div>
-  
-    <!-- button-->
-    <div style="width: 50%; padding: 10px; text-align: center;">
-    <a href="https://www.legendaryupside.com/sidekick/">
-    <img src="/assets/sidekick.jpg" alt="Sidekick logo" 
-         style="max-width: 100%; height: auto; border-radius: 8px;">
-         </a>
-  </div>
-  
-
-</div>  
-
-  </div>
-
-
+ 
