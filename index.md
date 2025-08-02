@@ -198,6 +198,12 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 
   <div style="display: flex; align-items: center;">
     
+      <!-- text next to button-->
+  <div style="width: 50%; padding: 10px;">
+    <h2>The LegUp Sidekick</h2>
+    <p>Add a paragraph about your work on Sidekick. <a href="https://www.legendaryupside.com/sidekick/">Find the Sidekick here</a>.</p>
+  </div>
+  
     <!-- button-->
     <div style="width: 50%; padding: 10px; text-align: center;">
     <a href="https://www.legendaryupside.com/sidekick/">
@@ -206,11 +212,7 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
          </a>
   </div>
   
-  <!-- text next to button-->
-  <div style="width: 50%; padding: 10px;">
-    <h2>The LegUp Sidekick</h2>
-    <p>Add a paragraph about your work on Sidekick. <a href="https://www.legendaryupside.com/sidekick/">Find the Sidekick here</a>.</p>
-  </div>
+
 </div>  
 
   </div>
