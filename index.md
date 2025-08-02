@@ -6,7 +6,7 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 ---
 Welcome. Here you'll find info. Link to various pages. 
 
-<!-- Tools section --> 
+<!-- DFS tools section --> 
 <div class="full-width-section" style="
   background-color: #291f43; 
   color: #EAEAEA;
@@ -15,12 +15,57 @@ Welcome. Here you'll find info. Link to various pages.
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%); ">
   
   <div class="container">
-    <h2>Get access to tools I've worked on</h2>
-    <p>I’m a DFS pro who loves building tools that level up my game, and helping other players do the same. I've worked on a number of products that are available by subscription.</p>
+    <h2>Where you can subscribe to my DFS work</h2>
+    <p>I’m a DFS pro who loves building tools that level up my game, and helping other players do the same. I've partnered with DFS tools to provide access to my portfolio optimizer.</p>
 
     <!-- Sidekick button-->
     <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
-    
+      <a href="mywork" 
+         style="flex: 1 1 250px; height: 200px; 
+            background-image: url('/assets/RTS-logo.png'); 
+            background-size: cover; background-position: center; 
+            position: relative; 
+            border-radius: 12px; 
+            overflow: hidden; 
+            text-decoration: none; 
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+
+      <!-- Button Overlay -->
+      <div style="position: absolute; top: 0; left: 0; 
+                width: 100%; height: 100%; 
+                background-color: rgba(0,0,0,0.5);"></div>
+
+      <!-- Button Text -->
+      <div style="position: relative; 
+                color: white; 
+                font-size: 24px; 
+                font-weight: bold; 
+                height: 100%; 
+                display: flex; 
+                align-items: center; 
+                justify-content: center;">
+            DFS tools I've worked on
+            </div>  
+        </a>
+  </div>
+ </div>
+</div>
+
+
+<!-- Bestball tools section --> 
+<div class="full-width-section" style="
+  background-color: #EAEAEA; 
+  color: #1a365d;
+  margin-left: calc(-50vw + 50%); 
+  margin-right: calc(-50vw + 50%); 
+  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%); ">
+  
+  <div class="container">
+    <h2>Where you can find by Bestball work</h2>
+    <p>I got into Bestball a few years after I became a DFS pro. Since Bestball is newer, I think there's a lot of upside for smart players and I want to help you find it.</p>
+
+    <!-- Sidekick button-->
+    <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
       <a href="mywork" 
          style="flex: 1 1 250px; height: 200px; 
             background-image: url('/assets/sidekick.jpg'); 
@@ -45,12 +90,13 @@ Welcome. Here you'll find info. Link to various pages.
                 display: flex; 
                 align-items: center; 
                 justify-content: center;">
-            See the tools I've worked on
+            Bestball tools I've worked on
             </div>  
         </a>
   </div>
-  </div>
-  </div>
+ </div>
+</div>
+
 
 
 
@@ -66,9 +112,7 @@ Welcome. Here you'll find info. Link to various pages.
     <h2>Want to work with me?</h2>
     <p>Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat! If you work with a tool provider and want to incorporate my work, email me.</p>
   </div>
-
-    </div>
-    </div>
+</div>
 
 
 
