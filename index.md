@@ -193,8 +193,19 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
     <h2>The LegUp Sidekick</h2>
     <p>Add a paragraph about your work on Sidekick. <a href="https://www.legendaryupside.com/sidekick/">Find the Sidekick here</a>.</p>
   </div>
+</div>  
+<div style="text-align: center; margin: 20px 0;">
+    <a href="/mywork.html" style="
+        display: inline-block;
+        background-color: #007bff;
+        color: white;
+        padding: 12px 24px;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: 500;">
+        Button Text
+    </a>
 </div>
-
-    
-
   </div>
+
+
