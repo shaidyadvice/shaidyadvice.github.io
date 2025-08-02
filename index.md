@@ -134,7 +134,7 @@ cover-img: "/assets/FBWC_2024.jpg"
 
 <!-- Work with me section-->
 <div class="full-width-section" style="
-  background-color: #1a365d; 
+  background-color: #291f43; 
   color: #EAEAEA;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
@@ -148,20 +148,6 @@ cover-img: "/assets/FBWC_2024.jpg"
 
 
 
-
-<!--test section 2-->
-<div class="full-width-section" style="
-  background-color: #291f43; 
-  color: #EAEAEA;
-  margin-left: calc(-50vw + 50%); 
-  margin-right: calc(-50vw + 50%); 
-  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
-
-  <div class="container">
-    <h2>Sections for days!</h2>
-    <p></p>
-  </div>
-  </div>
   
 <!--Bonus button-->
   <div style="text-align: center; margin: 20px 0;">
