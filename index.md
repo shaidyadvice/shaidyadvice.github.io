@@ -6,7 +6,35 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 ---
 
 
-Available for consulting, coaching, and miscellaneous data science projects.
+
+<div class="full-width-section" style="
+  background-color: #f8f9fa; 
+  margin-left: calc(-50vw + 50%); 
+  margin-right: calc(-50vw + 50%); 
+  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);
+">
+  <div class="container">
+    <!-- Your content here -->
+    <h2>Get access to tools I've worked on</h2>
+    <p>I’m a DFS pro who loves building tools that level up my game, and helping other players do the same. See My Work for more.
+</p>
+  </div>
+</div>
+
+<div class="full-width-section" style="
+  background-color: #291f43; 
+  color: white;
+  margin-left: calc(-50vw + 50%); 
+  margin-right: calc(-50vw + 50%); 
+  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);
+">
+  <div class="container">
+    <!-- Your content here -->
+    <h2>Get access to tools I've worked on</h2>
+    <p>I’m a DFS pro who loves building tools that level up my game, and helping other players do the same. See My Work for more.
+</p>
+  </div>
+</div>
 
 <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap;">
 
@@ -98,15 +126,4 @@ Available for consulting, coaching, and miscellaneous data science projects.
 
 
 
-<div class="full-width-section" style="
-  background-color: #f8f9fa; 
-  margin-left: calc(-50vw + 50%); 
-  margin-right: calc(-50vw + 50%); 
-  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);
-">
-  <div class="container">
-    <!-- Your content here -->
-    <h2>Full Width Section</h2>
-    <p>This content will be centered within the normal page width.</p>
-  </div>
-</div>
+
