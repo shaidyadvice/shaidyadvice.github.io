@@ -21,9 +21,10 @@ author: ShaidyAdvice
 ###############################################
 
 navbar-links:
-  Stuff I've Worked On: "mywork"
-  Work With Me: "newpage"
-  Media appearances: "media"
+  Stuff I've Worked On: 
+    - DFS: "dfs-mywork"
+    - Bestball: "bestball-work"
+  On Air: "media"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
