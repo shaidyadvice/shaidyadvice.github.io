@@ -5,6 +5,8 @@ subtitle: Streams, podcasts, and more
 ---
 LegUp + ShaidyAdvice = How to Build Best Ball Portfolios
 https://www.youtube.com/watch?v=xmvrcbih4fY
+<!--Embed video: LegUp + ShaidyAdvice = How to Build Best Ball Portfolios-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xmvrcbih4fY?si=T88jsGA2-2PicWeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Playing For Keeps with Neil Orfield: Episode 4 With Shaidy Advice
 https://www.youtube.com/watch?v=poMN7jCwX-k
