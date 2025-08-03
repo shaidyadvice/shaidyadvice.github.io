@@ -2,7 +2,7 @@
 layout: home
 title: ShaidyAdvice
 subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
-cover-img: "/assets/FBWC_2024_narrow.jpeg"
+cover-img: "/assets/FBWC_2024_narrow.jpg"
 ---
 
 <!--Welcome section-->
