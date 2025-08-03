@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Where to find products I've worked on
-#subtitle: 
+title: DFS products
+subtitle: Where you can subscribe to ShaidyAdvice tools
 ---
 
 ***
