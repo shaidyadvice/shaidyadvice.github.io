@@ -14,6 +14,11 @@ Some of my DFS and Bestball accomplishments include:
 
 ![My image](assets/FBWC_2024.jpg)
 
+
+Embed this tweet: 
+https://x.com/ShaidyAdvice/status/1828225513174847644
+
+
 ## Other interests
 More stuff here about board games? cats? other? 
 
