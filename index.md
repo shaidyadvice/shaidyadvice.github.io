@@ -43,7 +43,7 @@ cover-img: "/assets/FBWC_2024.jpg"
    </div>
   
   <!-- Button -->
-    <a href="mywork" 
+    <a href="dfs-work" 
        style="flex: 1 1 250px; height: 200px; 
           background-image: url('/assets/RTS-Logo.png'); 
           background-size: cover; background-position: center; 
@@ -97,7 +97,7 @@ cover-img: "/assets/FBWC_2024.jpg"
    </div>
   
   <!-- Button -->
-  <a href="mywork" 
+  <a href="bestballwork" 
        style="flex: 1 1 250px; height: 200px; 
           background-image: url('/assets/sidekick.jpg'); 
           background-size: cover; background-position: center; 
