@@ -21,10 +21,19 @@ https://x.com/ShaidyAdvice/status/1828225513174847644
 
 # My Photo Gallery
 
-<div class="photo-grid">
-  <img src="/assets/FBWC_2024.jpg" alt="Description 1">
-  <img src="/assets/FFWC_2024.jpg" alt="Description 2">
-  <img src="/assets/images/photo3.jpg" alt="Description 3">
+<div class="photo-row">
+  <div class="photo-item">
+    <img src="/assets/images/sunset.jpg" alt="Beautiful sunset">
+    <div class="photo-caption">Golden hour at the beach</div>
+  </div>
+  <div class="photo-item">
+    <img src="/assets/images/mountain.jpg" alt="Mountain peak">
+    <div class="photo-caption">Snow-capped mountain summit</div>
+  </div>
+  <div class="photo-item">
+    <img src="/assets/images/lake.jpg" alt="Serene lake">
+    <div class="photo-caption">Peaceful morning reflection</div>
+  </div>
 </div>
 
 ## Other interests
