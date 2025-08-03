@@ -22,13 +22,11 @@ author: ShaidyAdvice
 
 navbar-links:
   Stuff I've Worked On: 
-    - DFS: "dfs-mywork"
+    - DFS: "dfs-work"
     - Bestball: "bestball-work"
   On Air: "media"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+
 
 ################
 # --- Logo --- #
