@@ -12,10 +12,6 @@ Some of my DFS and Bestball accomplishments include:
 - 2024 Fantasy Foodball World Championship runner-up ($1M prize for second place)
 - 2023 Best Ball Mania third-place finisher ($300K prize for third place)
 
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Got to check “Win a DFS live final” off of my bucket list this weekend in Chicago. Thank you to all of you who congratulated me and as always to <a href="https://twitter.com/SaberSim?ref_src=twsrc%5Etfw">@SaberSim</a> and the great team working on their DFS product. <a href="https://t.co/3uOXdnlAJR">pic.twitter.com/3uOXdnlAJR</a></p>&mdash; Shaidy Advice (@ShaidyAdvice) <a href="https://twitter.com/ShaidyAdvice/status/1828225513174847644?ref_src=twsrc%5Etfw">August 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <!--Photo gallery-->
 <div style="display: flex; gap: 20px; align-items: flex-start;">
   <!--Photo 1-->
@@ -36,7 +32,6 @@ Some of my DFS and Bestball accomplishments include:
     <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">One of my million-dollar lineups</div>
   </div>
 </div>
-
 
 
 
