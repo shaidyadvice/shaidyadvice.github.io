@@ -36,6 +36,26 @@ https://x.com/ShaidyAdvice/status/1828225513174847644
   </div>
 </div>
 
+
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/FBWC_2024.jpg" alt="Description 1" style="width: 100%; border-radius: 8px;">
+    <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Fantasy Baseball World Championship 2024</div>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/FFWC_2024.jpg" alt="Description 2" style="width: 100%; border-radius: 8px;">
+    <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Caption 2</div>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/images/photo3.jpg" alt="Description 3" style="width: 100%; border-radius: 8px;">
+    <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Caption 3</div>
+  </div>
+</div>
+
+
+
+
 ## Other interests
 More stuff here about board games? cats? other? 
 
