@@ -7,7 +7,7 @@ subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 I'm a former particle physicist turned DFS pro. In addition to my successful career as a DFS and Bestball player, I enjoy building tools that help other players level up their game. See [My Work](./mywork.html) for some of the DFS and Bestball projects I've worked on. 
 
 Some of my DFS and Bestball accomplishments include: 
-- Two-time Milli-Maker winner
+- Four-time DFS million-dollar winner
 - 2024 Fantasy Baseball World Championship winner ($1M prize)
 - 2024 Fantasy Foodball World Championship runner-up ($1M prize for second place)
 - 2023 Best Ball Mania third-place finisher ($300K prize for third place)
