@@ -14,7 +14,7 @@ cover-img: "/assets/FBWC_2024.jpg"
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
   
   <div class="container">
-    <h2>Welcome! I'm a DFS pro who works on tools that can help you level up your game. On this page, you'll find ... </h2>
+    <h1>Welcome! I'm a DFS pro who works on tools that can help you level up your game. On this page, you'll find ... </h1>
     <p></p>
   </div>
 </div>
