@@ -39,7 +39,7 @@ cover-img: "/assets/FBWC_2024.jpg"
   <!-- Text Paragraph -->
   <div style="flex: 1 1 250px; padding: 20px;">
     <p style="font-size: 16px; line-height: 1.6; margin: 0;">
-      I love building tools that level up my game, and helping other players do the same. I've partnered with DFS tools who can provide access to my portfolio optimizer.</p>
+      I love building tools that level up my game, and helping other players do the same. I've partnered with DFS tools that can provide access to my portfolio optimizer.</p>
    </div>
   
   <!-- Button -->
@@ -97,7 +97,7 @@ cover-img: "/assets/FBWC_2024.jpg"
    </div>
   
   <!-- Button -->
-  <a href="bestballwork" 
+  <a href="bestball-work" 
        style="flex: 1 1 250px; height: 200px; 
           background-image: url('/assets/sidekick.jpg'); 
           background-size: cover; background-position: center; 
