@@ -26,7 +26,7 @@ Some of my DFS and Bestball accomplishments include:
   </div>
   <!--Photo 3 with link-->
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/winning-lineup.jpg" alt="One of my million-dollar lineups" style="width: 100%; border-radius: 8px;"> 
+    <img src="/assets/winning-lineup.jpeg" alt="One of my million-dollar lineups" style="width: 100%; border-radius: 8px;"> 
     <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">One of my million-dollar lineups</div>
   </div>
 </div>
