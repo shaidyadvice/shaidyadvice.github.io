@@ -19,6 +19,13 @@ Embed this tweet:
 https://x.com/ShaidyAdvice/status/1828225513174847644
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Got to check “Win a DFS live final” off of my bucket list this weekend in Chicago. Thank you to all of you who congratulated me and as always to <a href="https://twitter.com/SaberSim?ref_src=twsrc%5Etfw">@SaberSim</a> and the great team working on their DFS product. <a href="https://t.co/3uOXdnlAJR">pic.twitter.com/3uOXdnlAJR</a></p>&mdash; Shaidy Advice (@ShaidyAdvice) <a href="https://twitter.com/ShaidyAdvice/status/1828225513174847644?ref_src=twsrc%5Etfw">August 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+# My Photo Gallery
+
+<div class="photo-grid">
+  <img src="/assets/FBWC_2024.jpg" alt="Description 1">
+  <img src="/assets/FFWC_2024.jpg" alt="Description 2">
+  <img src="/assets/images/photo3.jpg" alt="Description 3">
+</div>
 
 ## Other interests
 More stuff here about board games? cats? other? 
