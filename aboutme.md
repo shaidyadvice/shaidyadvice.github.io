@@ -23,12 +23,12 @@ https://x.com/ShaidyAdvice/status/1828225513174847644
 
 <div class="photo-row">
   <div class="photo-item">
-    <img src="/assets/images/sunset.jpg" alt="Beautiful sunset">
-    <div class="photo-caption">Golden hour at the beach</div>
+    <img src="/assets/FBWC_2024.jpg" alt="Fantasy Baseball World Championship 2024">
+    <div class="photo-caption">Fantasy Baseball World Championship 2024</div>
   </div>
   <div class="photo-item">
-    <img src="/assets/images/mountain.jpg" alt="Mountain peak">
-    <div class="photo-caption">Snow-capped mountain summit</div>
+    <img src="/assets/FFWC_2024.jpg" alt="Fantasy Football World Championship 2024">
+    <div class="photo-caption">Fantasy Football World Championship 2024</div>
   </div>
   <div class="photo-item">
     <img src="/assets/images/lake.jpg" alt="Serene lake">
