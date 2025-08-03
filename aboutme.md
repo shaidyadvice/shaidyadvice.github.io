@@ -31,7 +31,7 @@ Some of my DFS and Bestball accomplishments include:
   </div>
 </div>
 
-
+***
 
 ## Other interests
 I also love video games and board games, and I have two cats named Professor Plum and Colonel Mustard.
@@ -52,7 +52,7 @@ I also love video games and board games, and I have two cats named Professor Plu
   </div>
 </div>
 
-
+***
 
 ## About the name
 I get asked a lot where the name ShaidyAdvice comes from. I've used variants on Shaidar and Shaidy as a handle since about 2000, after [everyone's favorite Fade from Wheel of Time](https://wot.fandom.com/wiki/Shaidar_Haran). I became ShaidyAdvice during my first foray into online content creation: A series of tutorial videos for running successful raids in World of Warcraft. 
