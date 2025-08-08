@@ -15,7 +15,6 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
   
   <div class="container">
     <h1>Welcome! I'm a DFS pro who works on tools that can help you level up your game.</h1>
-    <p></p>
   </div>
 </div>
 
@@ -91,8 +90,7 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
       
   <!-- Text Paragraph -->
   <div style="flex: 1 1 250px; padding: 20px;">
-    <p style="font-size: 16px; line-height: 1.6; margin: 0;">
-      I got into Bestball a few years after I became a DFS pro. Since Bestball is newer, I think there's a lot of upside for smart players, and I want to help you find it.</p>
+    <p>I got into Bestball a few years after I became a DFS pro. Since Bestball is newer, I think there's a lot of upside for smart players, and I want to help you find it.</p>
    </div>
   
   <!-- Button -->
