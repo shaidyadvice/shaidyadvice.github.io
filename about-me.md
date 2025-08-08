@@ -4,7 +4,7 @@ title: About me
 subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 ---
 ## My story
-I'm a former particle physicist turned DFS pro. In addition to my successful career as a DFS and Bestball player, I enjoy building tools that help other players level up their game. I've worked on [DFS tools](https://www.shaidyadvice.com/dfs-work) and [Bestball tools](www.shaidyadvice.com/bestball-tools). 
+I'm a former particle physicist turned DFS pro. In addition to my successful career as a DFS and Bestball player, I enjoy building tools that help other players level up their game. I've worked on [DFS tools](https://www.shaidyadvice.com/dfs-work) and [Bestball tools](https://www.shaidyadvice.com/bestball-tools). 
 
 Some of my DFS and Bestball accomplishments include: 
 - Four-time DFS million-dollar winner
