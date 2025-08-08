@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Daily Fantasy & Best Ball Player and Algorithm Developer
+subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
 ---
 ## My story
 I'm a former particle physicist turned DFS pro. In addition to my successful career as a DFS and Best Ball player, I enjoy building tools that help other players level up their game. I've worked on [DFS tools](/dfs-work/) and [Best Ball tools](/bestball-work/).
