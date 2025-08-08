@@ -28,3 +28,4 @@ However, Bestball quickly became just as interesting to me as DFS. Part of its c
 
 <h1>See the Sidekick in Action</h1>
 <p>Here are me and the other two Sidekick developers using the tool for some drafts.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xmvrcbih4fY?si=T88jsGA2-2PicWeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
