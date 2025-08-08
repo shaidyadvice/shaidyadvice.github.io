@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
+subtitle: Daily Fantasy & Best Ball Player and Algorithm Developer
 ---
 ## My story
-I'm a former particle physicist turned DFS pro. In addition to my successful career as a DFS and Bestball player, I enjoy building tools that help other players level up their game. I've worked on [DFS tools](/dfs-work/) and [Bestball tools](/bestball-work/).
+I'm a former particle physicist turned DFS pro. In addition to my successful career as a DFS and Best Ball player, I enjoy building tools that help other players level up their game. I've worked on [DFS tools](/dfs-work/) and [Best Ball tools](/bestball-work/).
 
-Some of my DFS and Bestball accomplishments include: 
+Some of my DFS and Best Ball accomplishments include: 
 - Four-time DFS million-dollar winner
 - 2024 Fantasy Baseball World Championship winner ($1M prize)
 - 2024 Fantasy Foodball World Championship runner-up ($1M prize for second place)
