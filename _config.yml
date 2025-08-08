@@ -21,7 +21,7 @@ author: ShaidyAdvice
 ###############################################
 
 navbar-links:
-  Home: "index"
+  Home: /
   Stuff I've Worked On: 
     - DFS: "dfs-work"
     - Bestball: "bestball-work"
