@@ -16,15 +16,15 @@ Some of my DFS and Best Ball accomplishments include:
 <div style="display: flex; gap: 20px; align-items: flex-start;">
   <!--Photo 1-->
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/FBWC_2024.jpg" alt="Fantasy Baseball World Championship 2024" style="width: 100%; border-radius: 8px;">
+    <img src="/assets/Shaidy FBWC.jpg" alt="Fantasy Baseball World Championship 2024" style="width: 100%; border-radius: 8px;">
     <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Fantasy Baseball World Championship 2024</div>
   </div>
   <!--Photo 2-->
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/FFWC_2024.jpg" alt="Fantasy Football World Championship 2024" style="width: 100%; border-radius: 8px;">
+    <img src="/assets/Shaidy FFWC.jpg" alt="Fantasy Football World Championship 2024" style="width: 100%; border-radius: 8px;">
     <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Fantasy Football World Championship 2024</div>
   </div>
-  <!--Photo 3 with link-->
+  <!--Photo 3-->
   <div style="flex: 1; text-align: center;">
     <img src="/assets/winning-lineup.jpeg" alt="One of my million-dollar lineups" style="width: 100%; border-radius: 8px;"> 
     <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">One of my million-dollar lineups</div>
