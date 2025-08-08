@@ -39,7 +39,7 @@ I also love video games and board games, and I have two cats named Professor Plu
 <!-- Cat photo gallery --> 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/cats-and-league.jpg" alt="Cats interfering with PC gaming" style="width: 100%; border-radius: 8px;">
+    <img src="/assets/cats-and-league-blur.jpg" alt="Cats interfering with PC gaming" style="width: 100%; border-radius: 8px;">
     <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Cats interfering with PC gaming</div>
   </div>
   <div style="flex: 1; text-align: center;">
