@@ -6,7 +6,7 @@ subtitle: Where you can subscribe to ShaidyAdvice tools
 
 I first got interested in Daily Fantasy Sports in 2019 and I'm one of the most successful players of the last five years. (Why should you trust me? Check out [About Me](/about-me/) for some of my accomplishments.) I see it as a fun puzzle to solve, and I like that it's always changing as new players enter the space, new tools become available, and new strategies emerge. 
 
-For most of my DFS journey, I was going it along with tools I developed myself. However, now I'm at a point where I want to share some of my tools and processes with other players. I think the best thing I have to offer is my portfolio optimizer, which can be used as an add-on to other tools. With this optimizer, you can confidently max enter any contest with the knowledge that you're entering a well-balanced portfolio that maximizes your expected payout.
+For most of my DFS journey, I was going it alone with tools I developed myself. However, now I'm at a point where I want to share some of my tools and processes with other players. I think the best thing I have to offer is my portfolio optimizer, which can be used as an add-on to other tools. With this optimizer, you can confidently max enter any contest with the knowledge that you're entering a well-balanced portfolio that maximizes your expected payout.
 
 
 ***
