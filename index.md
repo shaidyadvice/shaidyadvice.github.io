@@ -1,29 +1,14 @@
 ---
 layout: home
 title: ShaidyAdvice
-subtitle: DFS and Bestball Player & Consultant, Gamer, Nerd
+subtitle: Daily Fantasy & Best Ball player and algorithm developer
 cover-img: "/assets/FBWC_2024_narrow.jpg"
 ---
 
-<!--Welcome section-->
+<!--DFS tools section-->
 <div class="full-width-section" style="
   background-color: #EAEAEA; 
   color: #1a365d;
-  margin-left: calc(-50vw + 50%); 
-  margin-right: calc(-50vw + 50%); 
-  padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
-  
-  <div class="container">
-    <h1>Welcome! I'm a DFS pro who works on tools that can help you level up your game.</h1>
-  </div>
-</div>
-
-
-
-<!--DFS tools section-->
-<div class="full-width-section" style="
-  background-color: #291f43; 
-  color: #EAEAEA;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
@@ -37,7 +22,7 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
       
   <!-- Text Paragraph -->
   <div style="flex: 1 1 250px; padding: 20px;">
-    <p>I love building tools that level up my game, and helping other players do the same. I've partnered with DFS tools that can provide access to my portfolio optimizer.</p>
+    <p>I’ve spent years building and perfecting my DFS process. Now I also partner with DFS tool providers to offer access to my portfolio optimization algorithm to their subscribers.</p>
    </div>
   
   <!-- Button -->
@@ -65,7 +50,7 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
                   display: flex; 
                   align-items: center; 
                   justify-content: center;">
-              DFS tools I've worked on
+              Find more info on DFS tools I've partnered with
         </div>  
     </a>
   </div>  
@@ -75,14 +60,14 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
 
 <!--Bestball tools section-->
 <div class="full-width-section" style="
-  background-color: #EAEAEA; 
-  color: #1a365d;
+  background-color: #291f43; 
+  color: #EAEAEA;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
   
   <div class="container">
-    <h2>Where you can find my Bestball work</h2>
+    <h2>Where you can find my Best Ball work</h2>
   </div>
 
 <!--Side-by-side paragraph and button-->
@@ -90,7 +75,7 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
       
   <!-- Text Paragraph -->
   <div style="flex: 1 1 250px; padding: 20px;">
-    <p>I got into Bestball a few years after I became a DFS pro. Since Bestball is newer, I think there's a lot of upside for smart players, and I want to help you find it.</p>
+    <p>After solving DFS, I started working with the team at Legendary Upside to bring a sim-based dynamic rankings tool to our Best Ball subscribers.</p>
    </div>
   
   <!-- Button -->
@@ -118,7 +103,7 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
                   display: flex; 
                   align-items: center; 
                   justify-content: center;">
-              Bestball tools I've worked on
+              Learn more about the Sidekick
         </div>  
     </a>
   </div>  
@@ -158,7 +143,6 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
     </a>
 </div>
 
-  
 </div>
 
 
