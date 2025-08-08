@@ -129,11 +129,11 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
 
 <!--Bonus button-->
   <div style="text-align: center; margin: 20px 0;">
-    <a href="mailto:shaidyadvice@gmail.com" style="
+    <a href="mailto:info@shaidyadvice.com" style="
         display: inline-block;
-        background-color: #EAEAEA;
+        background-color: #291F43;
         #background-image: url('/assets/sidekick.jpg'); 
-        color: #291f43;
+        color: #EAEAEA;
         padding: 18px 36px;
         text-decoration: none;
         border-radius: 8px;
