@@ -132,7 +132,6 @@ cover-img: "/assets/FFWC_2024_narrow.jpg"
     <a href="mailto:info@shaidyadvice.com" style="
         display: inline-block;
         background-color: #291F43;
-        #background-image: url('/assets/sidekick.jpg'); 
         color: #EAEAEA;
         padding: 18px 36px;
         text-decoration: none;
@@ -146,7 +145,4 @@ cover-img: "/assets/FFWC_2024_narrow.jpg"
 </div>
 ***
 
-
-
-  
 
