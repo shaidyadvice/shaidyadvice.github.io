@@ -27,5 +27,5 @@ However, Best Ball quickly became just as interesting to me as DFS. Part of its 
 ***
 
 <h3>See the Sidekick in Action</h3>
-<p>Here are me and the other two Sidekick developers using the tool for some drafts.</p>
+<p>Here I am with the other two Sidekick developers (Pat Kerrane and Sackreligious) doing some drafts and describing the tool.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bj_6RpXsAjU?si=QPy5rhgneKTV3pD3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
