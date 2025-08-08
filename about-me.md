@@ -38,18 +38,29 @@ I also love video games and board games, and I have two cats named Professor Plu
 
 <!-- Cat photo gallery --> 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
+  <!--Photo 1-->
   <div style="flex: 1; text-align: center;">
     <img src="/assets/cats-and-league-blur.jpg" alt="Cats interfering with PC gaming" style="width: 100%; border-radius: 8px;">
     <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Cats interfering with PC gaming</div>
   </div>
+  <!--Photo 2-->
   <div style="flex: 1; text-align: center;">
     <img src="/assets/cats-and-switch.jpg" alt="Cats interfering with console gaming" style="width: 100%; border-radius: 8px;">
     <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Cats interfering with console gaming</div>
   </div>
+  <!--Photo 3-->
   <div style="flex: 1; text-align: center;">
     <img src="/assets/cat-and-board-games.jpg" alt="Cats interfering with board games" style="width: 100%; border-radius: 8px;">
     <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Cats interfering with board games</div>
   </div>
+  <!--Photo 4-->
+  <div style="flex: 1; text-align: center;">
+    <a href="https://www.youtube.com/live/nbgHfYHn10A?t=3681s">
+      <img src="/assets/cat-on-stream.png" alt="Cats interfering with streaming" style="width: 100%; border-radius: 8px;">
+    </a>
+    <div style="font-size: 14px; color: #666; font-style: italic; margin-top: 10px;">Cats interfering with streaming</div>
+  </div>
+
 </div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nbgHfYHn10A?si=v3rpjaBPiQ-W_zNB&amp;start=3681" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ***
