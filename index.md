@@ -116,8 +116,8 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
 
 <!-- Work with me section-->
 <div class="full-width-section" style="
-  background-color: #1a365d; 
-  color: #EAEAEA;
+  background-color: #EAEAEA; 
+  color: #1a365d;
   margin-left: calc(-50vw + 50%); 
   margin-right: calc(-50vw + 50%); 
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
@@ -144,6 +144,7 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
 </div>
 
 </div>
+***
 
 
 
