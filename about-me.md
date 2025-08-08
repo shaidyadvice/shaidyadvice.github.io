@@ -62,7 +62,7 @@ I also love video games and board games, and I have two cats named Professor Plu
   </div>
 
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nbgHfYHn10A?si=v3rpjaBPiQ-W_zNB&amp;start=3681" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ***
 
 ## About the name
