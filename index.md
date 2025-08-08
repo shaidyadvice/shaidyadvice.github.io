@@ -2,7 +2,7 @@
 layout: home
 title: ShaidyAdvice
 subtitle: Daily Fantasy & Best Ball player and algorithm developer
-cover-img: "/assets/FBWC_2024_narrow.jpg"
+cover-img: "/assets/FFWC_2024_narrow.jpg"
 ---
 
 <!--DFS tools section-->
