@@ -38,8 +38,7 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
       
   <!-- Text Paragraph -->
   <div style="flex: 1 1 250px; padding: 20px;">
-    <p style="font-size: 16px; line-height: 1.6; margin: 0;">
-      I love building tools that level up my game, and helping other players do the same. I've partnered with DFS tools that can provide access to my portfolio optimizer.</p>
+    <p>I love building tools that level up my game, and helping other players do the same. I've partnered with DFS tools that can provide access to my portfolio optimizer.</p>
    </div>
   
   <!-- Button -->
