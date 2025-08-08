@@ -13,7 +13,7 @@ subtitle: Streams, podcasts, and more
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xmvrcbih4fY?si=T88jsGA2-2PicWeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h3>Fantasy Football Drafts With An Actual Computer Genius from Davis Mattek</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fxY3l2rP0CM?si=YtFX0yVZLlWYp8VP&amp;start=3786" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fxY3l2rP0CM?si=_BBrQn8py2LgonGb&amp;start=3836" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h3>Playing For Keeps with Neil Orfield: Episode 4 With Shaidy Advice</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/poMN7jCwX-k?si=4s1V_cIWmB0G00AP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
