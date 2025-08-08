@@ -124,7 +124,7 @@ cover-img: "/assets/FBWC_2024_narrow.jpg"
   
   <div class="container">
     <h2>Want to work with me?</h2>
-    <p>Looking to add the ShaidyAdvice edge to your own tool or process? I'm happy to chat! If you work with a tool provider and want to incorporate my work, please reach out.</p>
+    <p>Contact me if you provide DFS content and want to offer my portfolio algorithm to your subscribers. If you subscribe to tools not listed above and want access, ask your provider to reach out to me.</p>
   </div>
 
 <!--Bonus button-->
