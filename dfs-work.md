@@ -1,13 +1,13 @@
 ---
 layout: page
-title: DFS products
-subtitle: Where you can subscribe to ShaidyAdvice tools
+title: DFS product partners
+subtitle: Find ShaidyAdvice portfolio integration
 ---
+I’m one of the most successful current Daily Fantasy Sports (DFS) players in the world. I first got introduced to DFS in 2019, seeing it as a fun puzzle to solve. I like that it’s always changing as new players enter the space, new tools become available, and new strategies emerge. 
 
-I first got interested in Daily Fantasy Sports in 2019 and I'm one of the most successful players of the last five years. (Why should you trust me? Check out [About Me](/about-me/) for some of my accomplishments.) I see it as a fun puzzle to solve, and I like that it's always changing as new players enter the space, new tools become available, and new strategies emerge. 
+I’ve become known for a portfolio and risk-management focused approach to DFS. The best way to help other players adopt this approach is to offer access to my portfolio optimization algorithm. This is the algorithm that I use to enter a diverse portfolio of lineups while still achieving a high ROI across sports. (Why should you trust me? Check out [About Me](/about-me/) for some of my accomplishments.) 
 
-For most of my DFS journey, I was going it alone with tools I developed myself. However, now I'm at a point where I want to share some of my tools and processes with other players. I think the best thing I have to offer is my portfolio optimizer, which can be used as an add-on to other tools. With this optimizer, you can confidently max enter any contest with the knowledge that you're entering a well-balanced portfolio that maximizes your expected payout.
-
+Below you’ll find a list of the tools I’m currently partnered with to prove access to my portfolio optimization algorithm.
 
 ***
 
@@ -27,3 +27,22 @@ For most of my DFS journey, I was going it alone with tools I developed myself. 
 
 ***
 
+<div class="container">
+    <h2>Want to work with me?</h2>
+    <p>Contact me if you provide DFS content and want to offer my portfolio algorithm to your subscribers. If you subscribe to tools not listed above and want access, ask your provider to reach out to me.</p>
+  </div>
+
+<!--Bonus button-->
+  <div style="text-align: center; margin: 20px 0;">
+    <a href="mailto:info@shaidyadvice.com" style="
+        display: inline-block;
+        background-color: #291F43;
+        color: #EAEAEA;
+        padding: 18px 36px;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: 500;
+        font-size: 18px;">
+        Email me
+    </a>
+</div>
