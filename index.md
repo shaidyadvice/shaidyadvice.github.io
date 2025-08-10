@@ -14,7 +14,7 @@ cover-img: "/assets/FFWC_2024_narrow.jpg"
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
   
   <div class="container">
-    <h2>Where you can subscribe to my DFS portfolio optimization</h2>
+    <h2>Where you can subscribe to my DFS portfolio optimization algorithm</h2>
   </div>
 
 <!--Side-by-side paragraph and button-->
