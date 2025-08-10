@@ -20,7 +20,7 @@ Below you’ll find a list of the tools I’m currently partnered with to prove 
   
   <div style="width: 50%; padding: 10px;">
     <h2>Run the Sims</h2>
-    <p>RTS subscribers can now add ShaidyAdvice's portfolio builder to their subscription. Find RTS <a href="https://www.runthesims.com/">here</a> and a video about our partnership [here](https://www.youtube.com/watch?v=dkbk7V4pQPg).</p>
+    <p>RTS subscribers can now add ShaidyAdvice's portfolio builder to their subscription. Find RTS <a href="https://www.runthesims.com/">here</a> and a video about our partnership <a href="https://www.youtube.com/watch?v=dkbk7V4pQPg">here</a>.</p>
   </div>
 
 </div>
