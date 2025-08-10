@@ -4,7 +4,7 @@ title: Sim-driven Best Ball tool
 subtitle: The Legendary Upside Sidekick
 ---
 
-I started playing bestball seriously in 2023. To be honest, it started as a way to shift some tax liability because I’d had an amazing DFS year. Best Ball seemed like a way I could pay entry fees in one tax year, but earn winnings in the following year.
+I started playing Best Ball seriously in 2023. To be honest, it started as a way to shift some tax liability because I’d had an amazing DFS year. Best Ball seemed like a way I could pay entry fees in one tax year, but earn winnings in the following year.
 
 However, Best Ball quickly became just as interesting to me as DFS. Part of its charm is that it’s a less-developed space than DFS, so I think there’s still more edge out there for smart players.
 
