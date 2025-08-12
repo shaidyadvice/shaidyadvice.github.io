@@ -5,7 +5,7 @@ subtitle: Find ShaidyAdvice portfolio integration
 ---
 I’m one of the most successful current Daily Fantasy Sports (DFS) players in the world. I first got introduced to DFS in 2019, seeing it as a fun puzzle to solve. I like that it’s always changing as new players enter the space, new tools become available, and new strategies emerge. 
 
-I’ve become known for a <a href="#portfolio-management">portfolio and risk-management</a> focused approach to DFS. The best way to help other players adopt this approach is to offer access to my portfolio optimization algorithm. This is the algorithm that I use to enter a diverse portfolio of lineups while still achieving a high ROI across sports. (Why should you trust me? Check out [About Me](/about-me/) for some of my accomplishments.) 
+I’ve become known for a <a href="#portfolio-optimization">portfolio and risk-management</a> focused approach to DFS. The best way to help other players adopt this approach is to offer access to my portfolio optimization algorithm. This is the algorithm that I use to enter a diverse portfolio of lineups while still achieving a high ROI across sports. (Why should you trust me? Check out [About Me](/about-me/) for some of my accomplishments.) 
 
 Below you’ll find a list of the tools I’m currently partnered with to prove access to my portfolio optimization algorithm.
 
