@@ -9,7 +9,7 @@ I’m a former particle physicist turned data scientist and world-class Daily Fa
 Some of my DFS and Best Ball accomplishments include: 
 - Four-time DFS million-dollar winner
 - 2024 Fantasy Baseball World Championship winner ($1M prize)
-- 2024 Fantasy Foodball World Championship runner-up ($1M prize for second place)
+- 2024 Fantasy Football World Championship runner-up ($1.25M prize for second place)
 - 2023 Best Ball Mania third-place finisher ($300K prize for third place)
 - Qualified 20+ times for DFS live finals
 
