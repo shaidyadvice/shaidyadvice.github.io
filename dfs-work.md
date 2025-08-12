@@ -26,7 +26,21 @@ Below you’ll find a list of the tools I’m currently partnered with to prove 
 </div>
 
 ***
+<!-- Section: What is portfolio optimization-->
+<div class="container">
+    <h2>What is portfolio optimization??</h2>
+    <p>I use a "Three Ps" framework to break down the DFS process where portfolio optimization is the final step:</p>
+    <ul>
+      <li><b>Projections:</b> Choose player and field projections/distributions</li>
+      <li><b>Pool of Lineups:</b> Generate a pool of strong lineup candidates from those projections</li>
+      <li><b>Portfolio:</b> Select a diverse set of lineups from your pool using portfolio optimization</li>
+    </ul>
+    <p>A portfolio optimization algorithm diversifies your lineups while sacrificing the minimum amount expected value. This approach keeps DFS players profitable while reducing their risk of ruin. My partnership with sites you already trust for projections and lineup pools allows you to add the same state-of-the-art portfolio algorithm used in my DFS process to yours.</p>
+</div>
 
+
+***
+<!-- Section: Work with me-->
 <div class="container">
     <h2>Want to work with me?</h2>
     <p>Contact me if you provide DFS content and want to offer my portfolio algorithm to your subscribers. If you subscribe to tools not listed above and want access, ask your provider to reach out to me.</p>
