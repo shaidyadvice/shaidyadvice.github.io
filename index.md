@@ -75,7 +75,7 @@ cover-img: "/assets/FFWC_2024_narrow.jpg"
       
   <!-- Text Paragraph -->
   <div style="flex: 1 1 250px; padding: 20px;">
-    <p>After solving DFS, I started working with the team at Legendary Upside to bring a sim-based dynamic rankings tool to our Best Ball subscribers.</p>
+    <p>After solving DFS, I started working with the team at Legendary Upside to bring a sim-based dynamic rankings tool to our best ball subscribers.</p>
    </div>
   
   <!-- Button -->
