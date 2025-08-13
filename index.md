@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ShaidyAdvice
-subtitle: Daily Fantasy & Best Ball player and algorithm developer
+subtitle: Daily fantasy & best ball player and algorithm developer
 cover-img: "/assets/FFWC_2024_narrow.jpg"
 ---
 
@@ -67,7 +67,7 @@ cover-img: "/assets/FFWC_2024_narrow.jpg"
   padding: 60px calc(50vw - 50%) 60px calc(50vw - 50%);">
   
   <div class="container">
-    <h2>Where you can find my Best Ball work</h2>
+    <h2>Where you can find my best ball work</h2>
   </div>
 
 <!--Side-by-side paragraph and button-->
