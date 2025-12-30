@@ -7,6 +7,10 @@ subtitle: Streams, podcasts, and more
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dkbk7V4pQPg?si=Xh6zb7nQPJYylE3R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ***
 
+<h3>Smartest Fantasy Player On Earth Gives Away The Best Ball Secrets from Davis Mattek</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9af9UqnpeXI?si=R2Pd4WrKQl6Oyf8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+***
+
 <h3>Shaidy Simmed the 2025 Best Ball Season from LegUp</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bj_6RpXsAjU?si=p8mb5EnmMAqHGlYR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ***
@@ -37,4 +41,4 @@ subtitle: Streams, podcasts, and more
 
 <h3>DFS After Dark with ShaidyAdvice</h3>
 DFS After Dark subscribers can access this episode <a href = "https://www.youtube.com/watch?v=qpNBkGomA0s">here</a>.
-***
+
